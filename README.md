@@ -1,7 +1,7 @@
 # wood-only
 Market for quality wood
 
-#Lading Page 
+# Lading Page 
 
 Website development with Javascript Vanilla, CSS % HTML
 3 sections
